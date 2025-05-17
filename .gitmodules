@@ -1,0 +1,3 @@
+[submodule "craft3d"]
+	path = craft3d
+	url = https://github.com/Nguriathi/craft3d.git
